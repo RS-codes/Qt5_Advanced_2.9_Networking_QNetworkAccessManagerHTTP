@@ -1,0 +1,1 @@
+# Qt5_Advanced_2.9_Networking_QNetworkAccessManagerHTTP
